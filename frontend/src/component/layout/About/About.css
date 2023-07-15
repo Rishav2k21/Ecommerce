@@ -1,0 +1,125 @@
+.aboutSection {
+    height: 100vh;
+    width: 100vw;
+    max-width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    grid-template-columns: 4fr 4fr;
+    position: absolute;
+}
+
+.aboutSectionGradient {
+/* background: linear-gradient(0deg, rgba(34, 195, 136, 1) 0%, rgba(45, 105, 253, 1) 100%); */
+/* background: linear-gradient(0deg, rgba(34, 194, 195, 1) 0%, rgba(45, 207, 253, 0.2891281512605)100%) */
+}
+
+.aboutSectionContainer {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    /* background-color: rgb(165, 50, 50); */
+/* background: linear-gradient(0deg, rgba(34, 195, 136, 1) 0%, rgba(45, 105, 253, 1) 100%); */
+background: linear-gradient(0deg, rgba(34, 195, 152, 0.7541141456582633) 0%, rgba(45, 207, 253, 1) 52%);
+    width: 80vw;
+    height: 80vh;
+    transform: translateX(-50%) translateY(-50%);
+    box-shadow: -10px 10px 10px rgba(0, 0, 0, 0.192);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.aboutSectionContainer>h1 {
+    font: 400 3vmax "Roboto";
+    color: black;
+    margin: 2vmax;
+    background-color:#34caeb ;
+
+}
+
+.aboutSectionContainer>div {
+    display: flex;
+    width: 100%;
+}
+
+.aboutSectionContainer>div>div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2vmax;
+    box-sizing: border-box;
+}
+
+.aboutSectionContainer>div>div>p {
+    color: rgba(0, 0, 0, 0.623);
+    font: 100 1vmax "Roboto";
+}
+
+.aboutSectionContainer>div>div>button {
+    margin: 1vmax 0;
+}
+
+.aboutSectionContainer>div>div>span {
+    font: 100 1vmax "Roboto";
+    color: rgba(0, 0, 0, 0.616);
+    text-align: center;
+    width: 80%;
+}
+
+.aboutSectionContainer2 {
+    border-left: 1px solid rgba(0, 0, 0, 0.116);
+}
+
+.aboutSectionContainer2>h2 {
+    color: rgba(0, 0, 0, 0.623);
+    font: 100 2vmax "Roboto";
+    margin: 2vmax;
+}
+
+.aboutSectionContainer2>a>svg {
+    font-size: 4vmax;
+}
+
+.youtubeSvgIcon {
+    color: rgb(63, 46, 43);
+}
+
+.instagramSvgIcon {
+    background: linear-gradient(45deg,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d);
+}
+
+@media screen and (max-width: 600px) {
+    .aboutSectionContainer>div {
+        display: block;
+    }
+
+    .aboutSectionContainer>h1 {
+        font: 400 5vmax "Roboto";
+        margin: 3vmax;
+    }
+
+    .aboutSectionContainer>div>div>p {
+        font: 100 2vmax "Roboto";
+    }
+
+    .aboutSectionContainer>div>div>span {
+        font: 100 1.4vmax "Roboto";
+        width: 70%;
+    }
+
+    .aboutSectionContainer2 {
+        border-left: none;
+    }
+
+    .aboutSectionContainer2>h2 {
+        font: 100 3vmax "Roboto";
+        margin: 2vmax;
+    }
+
+    .aboutSectionContainer2>a>svg {
+        font-size: 6vmax;
+        margin: 1vmax;
+    }
+}
