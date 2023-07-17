@@ -50,11 +50,11 @@ import Contact from "./component/layout/Contact/Contact";
 const App = () => {
   const { isAuthenticated, user } = useSelector((state) => state.user);
   const [stripeApiKey, setStripeApiKey] = useState("");
-  async function getStripeApiKey() {
-    const { data } = await axios.get("/api/v1/stripeapikey");
+  // async function getStripeApiKey() {
+  //   // const { data } = await axios.get("/api/v1/stripeapikey");
 
-    setStripeApiKey(data.stripeApiKey);
-  }
+  //   setStripeApiKey("pk_test_51NSvg7SJdJczrCbfaRuvkraIGC3MwJeZCj4t0BXXxHPriRpSE8gIYzlh3U2rSzJa1UIgwPebYoLaWeqTmdPSeBj2009tu9olsS");
+  // }
 
    useEffect(() => {
     WebFont.load({
@@ -64,7 +64,7 @@ const App = () => {
     });
 
     store.dispatch(loadUser());
-    getStripeApiKey( );
+    // getStripeApiKey( );
     // console.log(stripeApiKey);
 
   
@@ -162,13 +162,13 @@ const App = () => {
 
 
 
-       <Route
+       {/* <Route
       path="/process/payment"
       element={(
         <Elements stripe={loadStripe(stripeApiKey)}>
           <Payment />
         </Elements>
-      )}/>
+      )}/> */}
       </Routes>
       <Footer/>
 

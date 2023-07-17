@@ -19,9 +19,9 @@ if (process.env.NODE_ENV !== "PRODUCTION") {
 }
 
 app.use(cookieParser());
-app.use(bodyParser.urlencoded({ extended: true }));
+// app.use(express.urlencoded({ extended: true }));
 app.use(fileUpload());
-
+// app.use(express.json());
 
 app.use("/api/v1",product);
 app.use("/api/v1",user);
