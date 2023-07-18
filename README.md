@@ -1,11 +1,4 @@
 
-██╗  ██╗ █████╗ ███╗   ██╗ ██████╗ ███╗   ██╗███████╗
-██║  ██║██╔══██╗████╗  ██║██╔═══██╗████╗  ██║██╔════╝
-███████║███████║██╔██╗ ██║██║   ██║██╔██╗ ██║█████╗  
-██╔══██║██╔══██║██║╚██╗██║██║   ██║██║╚██╗██║██╔══╝  
-██║  ██║██║  ██║██║ ╚████║╚██████╔╝██║ ╚████║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
-
 
 # Ecommerce Website with React, Authentication, Stripe Payment, Redux, Cloudinary, and MongoDB Atlas
 ## Description
@@ -36,15 +29,7 @@ You can access the live demo of the website [here](https://your-ecommerce-websit
 - **Responsive Design:** Ensuring a consistent experience across various devices.
 - **Error Handling and Validation:** Providing meaningful error messages and input validation for forms.
 - **Pagination:** Breaking down product listings into multiple pages for better performance.
-- **Social Media Sharing:** Users can share their favorite products on social media platforms.
-## 🛠️ Installation
-
-1. Clone the repository:
- ```bash
-   git clone https://github.com/Rishav2k21/ecommerce.git
-   cd your-ecommerce-website
-   npm install
-   npm run start
+- **Social Media Sharing:** Users can share their favorite products on social media platforms
 
 
 ```markdown
