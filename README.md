@@ -10,8 +10,10 @@ This Ecommerce website is built using React, providing a seamless shopping exper
 You can access the live demo of the website [here](https://your-ecommerce-website-demo-url.com).
 
 ## 🖼️ Screenshots
-<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/f0bc72b0-0721-44d5-8714-7be634b98825"  width="60%" height="30%">
-
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/f0bc72b0-0721-44d5-8714-7be634b98825"  width="40%" height="25%">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/3256d3eb-7913-494f-bdb5-8969d75ecdb9"  width="40%" height="25%">
+</p>
 ![Screenshot (95)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/3256d3eb-7913-494f-bdb5-8969d75ecdb9)
 ![Screenshot (96)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/2771d1d4-cb09-4cc9-9afb-af299917c2da)
 ![Screenshot (97)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/72b95b3f-2c8a-470d-b5a0-5694ed75f845)
