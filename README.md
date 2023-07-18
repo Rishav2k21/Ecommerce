@@ -30,7 +30,6 @@ You can access the live demo of the website [here](https://your-ecommerce-websit
 - **Social Media Sharing:** Users can share their favorite products on social media platforms
 
 
-```markdown
 ## 📊 Dashboard
 
 The dashboard is accessible to admin users. To access the dashboard, log in with an admin account and navigate to the dashboard section. From the dashboard, you can:
@@ -81,6 +80,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 
 Happy shopping! 🛍️
+
 ## 🖼️ Screenshots
 <p float="left">
 <img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/f0bc72b0-0721-44d5-8714-7be634b98825"  width="45%" height="30%">
@@ -227,7 +227,6 @@ Happy shopping! 🛍️
 <img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/6fb4f937-92f1-4a7d-a3ad-c74c61d5e823"  width="45%" height="30%">
   
 </p>
-
 
 **Essential Variables**
 PORT=
