@@ -12,6 +12,8 @@ You can access the live demo of the website [here](https://your-ecommerce-websit
 ## 🖼️ Screenshots
 <p float="left">
 <img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/f0bc72b0-0721-44d5-8714-7be634b98825"  width="40%" height="25%">
+  .. 
+  ..
   
 <img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/3256d3eb-7913-494f-bdb5-8969d75ecdb9"  width="40%" height="25%">
 </p>
