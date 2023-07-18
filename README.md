@@ -118,9 +118,49 @@ You can access the live demo of the website [here](https://your-ecommerce-websit
 
 <img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/08d7a14d-f103-4163-b13c-ab9dce2a5586"  width="45%" height="30%">
 </p>
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/cd873219-a13e-4a93-b98a-be24e88a9258"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
 
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/4c150348-fa0a-4720-b944-ccaa18122763"  width="45%" height="30%">
+</p>
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/7f7bd63a-77ab-41bf-9688-3d3b9df2e4be"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
 
-![Screenshot (113)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/cd873219-a13e-4a93-b98a-be24e88a9258)
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/35d81da4-c6f4-405e-9489-b7cae9278e8f"  width="45%" height="30%">
+</p>
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/2b4c39ad-c9ec-425b-a85f-96f8f3f6e1c3"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/fa25a89a-ff7f-45d5-8b87-f9a38ccaac08"  width="45%" height="30%">
+</p>
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/03e69071-ae9e-443d-9af6-d8d34c5f0fd2"  width="45%" height="30%">
+</p>
+## Mobile view
+![localhost_3000_(iPhone SE)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/d5491d6c-3227-4e89-9ecc-86fd1321af62)
+![localhost_3000_(iPhone SE) (1)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/6a7b5335-eee7-4bc2-89db-f44266b60561)
+![localhost_3000_(iPhone SE) (2)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/478dd9fc-95d6-420f-ba18-a6eb73460210)
+![Uploading
+![localhost_3000_(iPhone SE) (4)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/31f1560a-ba9c-45a7-b59b-e65a482b161c)
+
+![localhost_3000_(iPhone SE) (5)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/21e54901-1724-4569-b159-b8e64579572e)
+![localhost_3000_(iPhone SE) (3)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/b39ad41c-eca2-4afb-8c37-15cbe7735019)
+
+![localhost_3000_(iPhone SE) (6)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/6b55cb17-7da8-41ca-9c76-a2b6eff6eeaa)
+![localhost_3000_(iPhone SE) (7)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/83b33b51-510e-4417-806a-a4596e58d9f6)
+
 ## 🌟 Features
 
 
