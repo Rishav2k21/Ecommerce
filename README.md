@@ -19,25 +19,110 @@ You can access the live demo of the website [here](https://your-ecommerce-websit
 
 <img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/3256d3eb-7913-494f-bdb5-8969d75ecdb9"  width="45%" height="30%">
 </p>
-![Screenshot (95)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/3256d3eb-7913-494f-bdb5-8969d75ecdb9)
-![Screenshot (96)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/2771d1d4-cb09-4cc9-9afb-af299917c2da)
-![Screenshot (97)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/72b95b3f-2c8a-470d-b5a0-5694ed75f845)
-![Screenshot (98)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/d70751e9-d73b-4933-988f-6a194978f7aa)
-![Screenshot (99)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/e8f24198-eaff-4705-98d9-de7ee6951a63)
-![Screenshot (100)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/75462491-9d82-4823-956e-fd9b4a64d91c)
-![Screenshot (102)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/56ddf159-316e-4129-8537-1486f789d5fb)
-![Screenshot (103)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/1af1e040-e24a-4b2f-babe-8164e7a963cf)
-![Screenshot (104)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/5c70b682-965f-4ccb-bb20-8f71dac40953)
-![Screenshot (105)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/c15f3dc7-c9ba-430b-b2fd-5c017a5bb7ad)
-![Screenshot (106)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/c0e51c57-7edb-4175-a6da-9365e8273640)
-![Screenshot (107)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/5c7bfa7a-b538-4cc8-8700-1b1b60ae8f49)
-![Screenshot (108)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/605fff9b-dc70-4a1d-85de-94d199b5519a)
-![Screenshot (109)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/ed671e8f-d2ad-427e-b702-3dc2f9ea195e)
-![Screenshot (110)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/6f3817b6-38da-4e6c-9c16-ab5717f146fa)
-![Screenshot (111)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/fdf08b88-9f79-42ce-a82e-58bcd594b7d0)
-![Screenshot (112)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/08d7a14d-f103-4163-b13c-ab9dce2a5586)
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/2771d1d4-cb09-4cc9-9afb-af299917c2da"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/72b95b3f-2c8a-470d-b5a0-5694ed75f845"  width="45%" height="30%">
+</p>
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/d70751e9-d73b-4933-988f-6a194978f7aa"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/e8f24198-eaff-4705-98d9-de7ee6951a63"  width="45%" height="30%">
+</p>
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/75462491-9d82-4823-956e-fd9b4a64d91c"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/56ddf159-316e-4129-8537-1486f789d5fb"  width="45%" height="30%">
+</p>
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/1af1e040-e24a-4b2f-babe-8164e7a963cf"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/5c70b682-965f-4ccb-bb20-8f71dac40953"  width="45%" height="30%">
+</p>
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/c15f3dc7-c9ba-430b-b2fd-5c017a5bb7ad"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/c0e51c57-7edb-4175-a6da-9365e8273640"  width="45%" height="30%">
+</p>
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/5c7bfa7a-b538-4cc8-8700-1b1b60ae8f49"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/605fff9b-dc70-4a1d-85de-94d199b5519a"  width="45%" height="30%">
+</p>
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/ed671e8f-d2ad-427e-b702-3dc2f9ea195e"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/6f3817b6-38da-4e6c-9c16-ab5717f146fa"  width="45%" height="30%">
+</p>
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/fdf08b88-9f79-42ce-a82e-58bcd594b7d0"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/08d7a14d-f103-4163-b13c-ab9dce2a5586"  width="45%" height="30%">
+</p>
+.
+.
+<p float="left">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/cd873219-a13e-4a93-b98a-be24e88a9258"  width="45%" height="30%">
+  .. 
+  ..
+  ..
+  ..
+
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/08d7a14d-f103-4163-b13c-ab9dce2a5586"  width="45%" height="30%">
+</p>
+
+
 ![Screenshot (113)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/cd873219-a13e-4a93-b98a-be24e88a9258)
 ## 🌟 Features
+
 
 - **User Authentication:** Users can sign up, log in, and manage their profiles securely.
 - **Product Listings:** Displaying various products with detailed information and images.
