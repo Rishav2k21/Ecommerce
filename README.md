@@ -18,7 +18,7 @@ You can access the live demo of the website [here](https://your-ecommerce-websit
   ..
   ..
   ..
-<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/3256d3eb-7913-494f-bdb5-8969d75ecdb9"  width="40%" height="25%">
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/3256d3eb-7913-494f-bdb5-8969d75ecdb9"  width="50%" height="30%">
 </p>
 ![Screenshot (95)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/3256d3eb-7913-494f-bdb5-8969d75ecdb9)
 ![Screenshot (96)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/2771d1d4-cb09-4cc9-9afb-af299917c2da)
