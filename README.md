@@ -147,9 +147,15 @@ You can access the live demo of the website [here](https://your-ecommerce-websit
 </p>
 <p float="left">
 <img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/03e69071-ae9e-443d-9af6-d8d34c5f0fd2"  width="45%" height="30%">
+  ..
+  ..
+  ..
+  ..
+  
+<img src="https://github.com/Rishav2k21/Ecommerce/assets/98807848/6fb4f937-92f1-4a7d-a3ad-c74c61d5e823"  width="45%" height="30%">
+  
 </p>
 
-![Screenshot (114)](https://github.com/Rishav2k21/Ecommerce/assets/98807848/6fb4f937-92f1-4a7d-a3ad-c74c61d5e823)
 
 ## 🌟 Features
 
